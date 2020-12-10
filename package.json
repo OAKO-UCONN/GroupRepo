@@ -11,6 +11,7 @@
     "watch": "nodemon server.js",
     "eslintjs": "eslint '**/*.js'",
     "eslintjsfix": "prettier-eslint '**/*.js' --write",
+    "eslintjspublic": "eslint 'public/*.js'",
     "eslintjsfixpublic": "prettier-eslint 'public/*.js' --write"
   },
   "keywords": [],
