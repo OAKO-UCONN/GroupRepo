@@ -10,7 +10,8 @@
     "fix": "eslint --fix .",
     "watch": "nodemon server.js",
     "eslintjs": "eslint '**/*.js'",
-    "eslintjsfix": "prettier-eslint '**/*.js' --write"
+    "eslintjsfix": "prettier-eslint '**/*.js' --write",
+    "eslintjsfixpublic": "prettier-eslint 'public/*.js' --write"
   },
   "keywords": [],
   "author": "",
