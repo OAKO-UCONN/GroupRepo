@@ -1,0 +1,16 @@
+root = true
+
+#Charset
+charset = utf-8
+
+#Unix-Style Newlines
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+#Space Indentation
+indent_style = space
+indent_size = 2
+
+#Whitespace Trailing
+trim_trailing_whitespace = true
